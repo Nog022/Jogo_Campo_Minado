@@ -1,4 +1,4 @@
-Este é um projeto que fiz para eu treinar meu entedimento sobre Java, utilizei o curso da Cod3r para aprendizado. O jogo é o campo minado, se joga diretamente no console. O projeto foi desenvolvido em Java 8 e alguns testes unitários foram realizados com JUnit 5.
+Este é um projeto que fiz para treinar meu entendimento sobre Java. Utilizei o curso da Cod3r para fazê-lo. O jogo é o campo minado, é jogado diretamente no console. O projeto foi desenvolvido em Java 8 e alguns testes unitários foram realizados com JUnit 5.
 
 Como jogar:
 
