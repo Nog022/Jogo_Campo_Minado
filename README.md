@@ -7,15 +7,6 @@ Inicialmente vai aparecer uma matriz com os parâmetros colocado na "Aplicacao.j
 
 Exemplo abaixo foi utilizado esses parâmetros --> 6,6,6
 
-
-   0  1  2  3  4  5 
-0  ?  ?  ?  ?  ?  ? 
-1  ?  ?  ?  ?  ?  ? 
-2  ?  ?  ?  ?  ?  ? 
-3  ?  ?  ?  ?  ?  ? 
-4  ?  ?  ?  ?  ?  ? 
-5  ?  ?  ?  ?  ?  ?
-
 ![image](https://user-images.githubusercontent.com/87150096/230779760-4c03c5ab-bfc3-4d29-9c60-53070d91fc55.png)
 
 
@@ -25,13 +16,9 @@ Explicação dos ícones no console
 "*" --> Irá aparecer quando algum campo estiver aberto e possuir alguma mina dentro dele.
 " " --> Se um espaço estiver vazio, significa que um campo foi aberto e não há bombas ao seu redor.
 
-   0  1  2  3  4  5 
-0  ?  ?  ?  ?  1    
-1  ?  ?  ?  ?  1    
-2  ?  ?  ?  2  1    
-3  ?  ?  ?  1       
-4  ?  ?  ?  2  1    
-5  ?  ?  ?  ?  1  
+ 
+![image](https://user-images.githubusercontent.com/87150096/230779779-d540fef1-7836-4474-bb61-4132ac383e2d.png)
+
 
 Os números que aparecem ao redor do campo vazio indicam a quantidade de bombas ao redor do campo que não possui bombas.
 
