@@ -16,6 +16,9 @@ Exemplo abaixo foi utilizado esses parâmetros --> 6,6,6
 4  ?  ?  ?  ?  ?  ? 
 5  ?  ?  ?  ?  ?  ?
 
+![image](https://user-images.githubusercontent.com/87150096/230779760-4c03c5ab-bfc3-4d29-9c60-53070d91fc55.png)
+
+
 Explicação dos ícones no console
 "x" --> E quando quiser marcar algum campo para sinalizar que há uma bomba naquele campo, vai ser utilizado esse "x", se for marcado o campo, só pode abrir se desmarcar ele.
 "?" --> São os campos que não foram abertos.
