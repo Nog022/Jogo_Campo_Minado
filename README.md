@@ -1,4 +1,5 @@
 Este é um projeto que fiz como parte do curso da Cod3r para aprendizado. O jogo é o famoso campo minado é jogado diretamente no console. O projeto foi desenvolvido em Java 8 e alguns testes unitários foram realizados com JUnit 5.
+
 Como jogar:
 
 Bom, para iniciar tem que ir no arquivo main do projeto, possui o nome "Aplicacao.java" e setar 3 valores, a linha, coluna e a quantidade de bombas que vão ter no jogo.
